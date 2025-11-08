@@ -16,7 +16,7 @@ const HeroSection: React.FC = () => {
             <div className="absolute inset-0 bg-black"></div>
             <div className="z-10 px-4">
                 <h1 className="font-space-grotesk text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter mb-4 animate-fade-in-down">
-                    ALEX IRVIN
+                    DEV JOSH
                 </h1>
                 <p className="text-xl md:text-2xl text-gray-300 mb-6 animate-fade-in-up">Creative Technologist & Experience Builder</p>
                 <div className="h-8 md:h-10 mb-8 overflow-hidden">
